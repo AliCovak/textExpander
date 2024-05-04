@@ -1,0 +1,22 @@
+{
+  ";s1;": "Dobré ráno, začínam pracovať ...",
+  ";s2;": "Dobrý deň, $s. Je niečo naliehavé, na čom by som mal najprv pracovať?",
+  ";s3.": "Ahoj $s,\n\nvšetky úlohy boli splnené.\n\nPrajem vám pekný deň.",
+  ";p0;": "Dobrý deň.",
+  ";p1;": "S pozdravom,\n\nAli",
+  ";p2;": "S úctou,\n\nAli",
+  ";p3;": "S úctivým pozdravom,\n\nAli Čovák\nštudent 4. ročníka externého štúdia",
+  ";gm;": "Good Morning!",
+  ";euro;": "€",
+  ";dollar;": "$",
+  ";reg;": "®",
+  ";id;": "https://www.mojafirma.sk/mojaappka/$s/open",
+  ";jira;": "https://jira.mojafirma.sk/jira/projects/$s",
+  ";jira2;": "<a href=\"https://jira.mojafirma.sk/jira/projects/wsba-$s\">WSBA-$s</a>",
+  ";phone;": "https://www.mojafirma.sk/call?phone=$s",
+  ";test1:": "ok-$s",
+  ";test2;": ":hw;",
+  ";test3;": "ok-$s;",
+  ";=5;": "=====",
+  ";=20;": "===================="
+}

@@ -1,0 +1,8 @@
+{
+  "shift_enter_bool": 1,
+  "clipboard_char_bool": 1,
+  "default_char_str": "_",
+  "off_shortcut": ":off;",
+  "off_key_escape": 1,
+  "console_debug_mode": 1
+}

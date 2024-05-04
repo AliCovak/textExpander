@@ -1,0 +1,30 @@
+:id:12345 zmeni na:
+  https://www.mojafirma.sk/mojaappka/12345/open
+
+> 
+
+(zadefinovane ako: 
+  https://www.mojafirma.sk/mojaappka/$s/open)
+
+Bonus:
+> 
+
+---------------------------
+dalsie priklady
+:jiral:APP-1001
+automaticky zmeni na:
+  https://jira.mojafirma.sk/jira/projects/APP-1001
+
+> 
+
+----------------------------
+:jira2:APP-1002
+  <a href=https://jira.mojafirma.sk/jira/projects/APP-1001>APP-1001</a>
+   
+> 
+
+-----------------------------
+:phone:0903987278 zmeni na:
+  https://www.mojafirma.sk/call?phone=0903987278
+
+> 
